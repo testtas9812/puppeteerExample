@@ -6,6 +6,7 @@
 
 Puppeteer Headless Chrome examples for real life use cases. Clone this repo and run them directy with a simple `node` command.
 
+
 ```bash
 git clone https://github.com/checkly/puppeteer-examples
 cd puppeteer-examples
