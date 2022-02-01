@@ -110,7 +110,6 @@ The hover function is a combination of scrolling and putting the mouse into a ho
 ### keyboard
 types into a text editor
 
-
 [1. basics/keyboard.js](https://github.com/checkly/puppeteer-examples/blob/master/1.%20basics/keyboard.js)
 ### location_faker
 Fake the location for the geolocation API used by the browsers
